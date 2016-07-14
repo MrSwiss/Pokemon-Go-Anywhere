@@ -8,7 +8,7 @@
 
 ### Prerequisites:
 
-* Computer running OSX (MacBook, iMac, etc.)
+* Computer running OSX (MacBook, iMac, etc.) :computer:
 * Xcode 7
 * USB Cable
 * Common sense :tongue:
