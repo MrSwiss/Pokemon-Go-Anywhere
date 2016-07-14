@@ -15,13 +15,7 @@
 
 ### Steps:
 `IMPORTANT`: _Uninstall your current Pokémon Go App First!_
-1. Clone this repository or download the `.zip`:
-
-    `git clone https://github.com/Nusrath/Pokemon-Go-Anywhere.git`
-
-    OR
-
-    Download the zip package [`HERE`](https://github.com/Nusrath/Pokemon-Go-Anywhere/archive/master.zip)
+1. Download this zip package: [`master.zip`](https://github.com/Nusrath/Pokemon-Go-Anywhere/archive/master.zip)
 
 2. Connect iPhone to MacBook via USB.
 
